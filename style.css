@@ -1,0 +1,11 @@
+
+.box{
+    background:
+    url(../img/home.jpg) no-repeat center,
+    url(./img/lamp.png) repeat-x top /3%,
+    url(./img/donut2.png) repeat-y right /4%,
+    url(./img/grass.png) repeat-x bottom /23%,
+    url(./img/3F3F.webp) repeat-y left /4%;
+    background-color:green;
+    height: 700px;
+}
